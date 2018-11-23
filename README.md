@@ -3,9 +3,9 @@
 ## Exercise 101-IDC - Bike share
 ===============================
 
-### Asaf Amitai_ U R Totach
+### Asaf Amitai
 ### Itamar Lapidot 
 ### Oren Shy 
-### Ori Porat
+### Ori Porat Is exelento
 
 # BOOM!
