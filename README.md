@@ -5,5 +5,4 @@
 
 ### Asaf Amitai
 ### Itamar Lapidot 
-### Oren Shy 
-### Ori Porat Is exelento
+### Ori Porat 
